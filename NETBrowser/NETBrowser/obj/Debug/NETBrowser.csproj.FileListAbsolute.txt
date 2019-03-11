@@ -1,0 +1,10 @@
+C:\CODE\C#\WinForms\NETBrowser\NETBrowser\bin\Debug\NETBrowser.exe.config
+C:\CODE\C#\WinForms\NETBrowser\NETBrowser\bin\Debug\NETBrowser.exe
+C:\CODE\C#\WinForms\NETBrowser\NETBrowser\bin\Debug\NETBrowser.pdb
+C:\CODE\C#\WinForms\NETBrowser\NETBrowser\obj\Debug\NETBrowser.csprojAssemblyReference.cache
+C:\CODE\C#\WinForms\NETBrowser\NETBrowser\obj\Debug\NETBrowser.NETBrowser.resources
+C:\CODE\C#\WinForms\NETBrowser\NETBrowser\obj\Debug\NETBrowser.Properties.Resources.resources
+C:\CODE\C#\WinForms\NETBrowser\NETBrowser\obj\Debug\NETBrowser.csproj.GenerateResource.cache
+C:\CODE\C#\WinForms\NETBrowser\NETBrowser\obj\Debug\NETBrowser.csproj.CoreCompileInputs.cache
+C:\CODE\C#\WinForms\NETBrowser\NETBrowser\obj\Debug\NETBrowser.exe
+C:\CODE\C#\WinForms\NETBrowser\NETBrowser\obj\Debug\NETBrowser.pdb
